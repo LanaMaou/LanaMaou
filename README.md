@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br>👯 I enjoy collaborating on projects<br>🌱 I’m currently learning fullstack developer<br>💬 Ask me about Coding?<br>⚡ I love coding ♥️<br>💻 Portfolio : [lanamaou.my.id](https://lanamaou.my.id/)
+👩🏻‍💻 I am a fullstack web developer from Indonesia 🇮🇩 <br>👯 I enjoy collaborating on projects<br>🌱 I’m currently learning fullstack developer<br>💬 Ask me about Coding?<br>⚡ I love coding ♥️<br>💻 Portfolio : [lanamaou.my.id](https://lanamaou.my.id/)
 
 
 ## 🌐 Socials:
